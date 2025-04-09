@@ -1,2 +1,3 @@
 schema:
 name,location,address
+select * from student
