@@ -1,0 +1,9 @@
+# A simple Mayo script example
+
+# Define a function
+function greet(name) {
+    print("Hello, " + name + "!");
+}
+
+# Call the function
+greet("World") ;
